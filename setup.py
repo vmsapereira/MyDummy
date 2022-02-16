@@ -3,6 +3,7 @@
 
 from setuptools import setup, find_packages
 
+
 requirements = ['xmlschema']
 
 test_requirements = [
